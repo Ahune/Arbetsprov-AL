@@ -1,0 +1,12 @@
+/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Domain/bin/Debug/net7.0/StatsByAlfaLaval.Domain.deps.json
+/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Domain/bin/Debug/net7.0/StatsByAlfaLaval.Domain.dll
+/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Domain/bin/Debug/net7.0/StatsByAlfaLaval.Domain.pdb
+/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Domain/obj/Debug/net7.0/StatsByAlfaLaval.Domain.csproj.AssemblyReference.cache
+/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Domain/obj/Debug/net7.0/StatsByAlfaLaval.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Domain/obj/Debug/net7.0/StatsByAlfaLaval.Domain.AssemblyInfoInputs.cache
+/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Domain/obj/Debug/net7.0/StatsByAlfaLaval.Domain.AssemblyInfo.cs
+/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Domain/obj/Debug/net7.0/StatsByAlfaLaval.Domain.csproj.CoreCompileInputs.cache
+/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Domain/obj/Debug/net7.0/StatsByAlfaLaval.Domain.dll
+/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Domain/obj/Debug/net7.0/refint/StatsByAlfaLaval.Domain.dll
+/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Domain/obj/Debug/net7.0/StatsByAlfaLaval.Domain.pdb
+/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Domain/obj/Debug/net7.0/ref/StatsByAlfaLaval.Domain.dll

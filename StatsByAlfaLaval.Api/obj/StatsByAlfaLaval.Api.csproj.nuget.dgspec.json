@@ -1,0 +1,328 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Api/StatsByAlfaLaval.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Api/StatsByAlfaLaval.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Api/StatsByAlfaLaval.Api.csproj",
+        "projectName": "StatsByAlfaLaval.Api",
+        "projectPath": "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Api/StatsByAlfaLaval.Api.csproj",
+        "packagesPath": "/Users/alexandermounzer/.nuget/packages/",
+        "outputPath": "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alexandermounzer/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Application/StatsByAlfaLaval.Application.csproj": {
+                "projectPath": "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Application/StatsByAlfaLaval.Application.csproj"
+              },
+              "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Contracts/StatsByAlftaLaval.Contracts.csproj": {
+                "projectPath": "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Contracts/StatsByAlftaLaval.Contracts.csproj"
+              },
+              "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Infrastructure/StatsByAlfaLaval.Infrastructure.csproj": {
+                "projectPath": "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Infrastructure/StatsByAlfaLaval.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Net.Http": {
+              "target": "Package",
+              "version": "[2.2.29, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Application/StatsByAlfaLaval.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Application/StatsByAlfaLaval.Application.csproj",
+        "projectName": "StatsByAlfaLaval.Application",
+        "projectPath": "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Application/StatsByAlfaLaval.Application.csproj",
+        "packagesPath": "/Users/alexandermounzer/.nuget/packages/",
+        "outputPath": "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alexandermounzer/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Contracts/StatsByAlftaLaval.Contracts.csproj": {
+                "projectPath": "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Contracts/StatsByAlftaLaval.Contracts.csproj"
+              },
+              "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Domain/StatsByAlfaLaval.Domain.csproj": {
+                "projectPath": "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Domain/StatsByAlfaLaval.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Contracts/StatsByAlftaLaval.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Contracts/StatsByAlftaLaval.Contracts.csproj",
+        "projectName": "StatsByAlftaLaval.Contracts",
+        "projectPath": "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Contracts/StatsByAlftaLaval.Contracts.csproj",
+        "packagesPath": "/Users/alexandermounzer/.nuget/packages/",
+        "outputPath": "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alexandermounzer/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Domain/StatsByAlfaLaval.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Domain/StatsByAlfaLaval.Domain.csproj",
+        "projectName": "StatsByAlfaLaval.Domain",
+        "projectPath": "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Domain/StatsByAlfaLaval.Domain.csproj",
+        "packagesPath": "/Users/alexandermounzer/.nuget/packages/",
+        "outputPath": "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alexandermounzer/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Infrastructure/StatsByAlfaLaval.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Infrastructure/StatsByAlfaLaval.Infrastructure.csproj",
+        "projectName": "StatsByAlfaLaval.Infrastructure",
+        "projectPath": "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Infrastructure/StatsByAlfaLaval.Infrastructure.csproj",
+        "packagesPath": "/Users/alexandermounzer/.nuget/packages/",
+        "outputPath": "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alexandermounzer/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Application/StatsByAlfaLaval.Application.csproj": {
+                "projectPath": "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Application/StatsByAlfaLaval.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

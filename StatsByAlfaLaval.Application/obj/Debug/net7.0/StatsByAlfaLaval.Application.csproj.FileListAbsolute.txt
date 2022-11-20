@@ -1,0 +1,17 @@
+/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Application/bin/Debug/net7.0/StatsByAlfaLaval.Application.deps.json
+/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Application/bin/Debug/net7.0/StatsByAlfaLaval.Application.dll
+/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Application/bin/Debug/net7.0/StatsByAlfaLaval.Application.pdb
+/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Application/bin/Debug/net7.0/StatsByAlfaLaval.Domain.dll
+/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Application/bin/Debug/net7.0/StatsByAlftaLaval.Contracts.dll
+/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Application/bin/Debug/net7.0/StatsByAlftaLaval.Contracts.pdb
+/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Application/bin/Debug/net7.0/StatsByAlfaLaval.Domain.pdb
+/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Application/obj/Debug/net7.0/StatsByAlfaLaval.Application.csproj.AssemblyReference.cache
+/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Application/obj/Debug/net7.0/StatsByAlfaLaval.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Application/obj/Debug/net7.0/StatsByAlfaLaval.Application.AssemblyInfoInputs.cache
+/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Application/obj/Debug/net7.0/StatsByAlfaLaval.Application.AssemblyInfo.cs
+/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Application/obj/Debug/net7.0/StatsByAlfaLaval.Application.csproj.CoreCompileInputs.cache
+/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Application/obj/Debug/net7.0/StatsByAlfaLaval.Application.csproj.CopyComplete
+/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Application/obj/Debug/net7.0/StatsByAlfaLaval.Application.dll
+/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Application/obj/Debug/net7.0/refint/StatsByAlfaLaval.Application.dll
+/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Application/obj/Debug/net7.0/StatsByAlfaLaval.Application.pdb
+/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Application/obj/Debug/net7.0/ref/StatsByAlfaLaval.Application.dll
