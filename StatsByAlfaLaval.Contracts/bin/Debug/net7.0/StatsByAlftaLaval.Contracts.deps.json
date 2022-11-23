@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "StatsByAlftaLaval.Contracts/1.0.0": {
+        "dependencies": {
+          "StatsByAlfaLaval.Domain": "1.0.0"
+        },
         "runtime": {
           "StatsByAlftaLaval.Contracts.dll": {}
+        }
+      },
+      "StatsByAlfaLaval.Domain/1.0.0": {
+        "runtime": {
+          "StatsByAlfaLaval.Domain.dll": {}
         }
       }
     }
   },
   "libraries": {
     "StatsByAlftaLaval.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StatsByAlfaLaval.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

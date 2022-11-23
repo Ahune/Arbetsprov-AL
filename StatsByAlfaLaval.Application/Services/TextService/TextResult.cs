@@ -1,4 +1,3 @@
 namespace StatsByAlfaLaval.Application.Services.TextService;
 
-    public record TextResult(
-        List<string> Response);
+    public record TextResult(List<string> Response);

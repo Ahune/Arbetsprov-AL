@@ -174,7 +174,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Domain/StatsByAlfaLaval.Domain.csproj": {
+                "projectPath": "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Domain/StatsByAlfaLaval.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
