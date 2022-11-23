@@ -98,6 +98,9 @@
         }
       },
       "StatsByAlftaLaval.Contracts/1.0.0": {
+        "dependencies": {
+          "StatsByAlfaLaval.Domain": "1.0.0"
+        },
         "runtime": {
           "StatsByAlftaLaval.Contracts.dll": {}
         }

@@ -10,3 +10,6 @@
 /Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Contracts/obj/Debug/net7.0/refint/StatsByAlftaLaval.Contracts.dll
 /Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Contracts/obj/Debug/net7.0/StatsByAlftaLaval.Contracts.pdb
 /Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Contracts/obj/Debug/net7.0/ref/StatsByAlftaLaval.Contracts.dll
+/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Contracts/bin/Debug/net7.0/StatsByAlfaLaval.Domain.dll
+/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Contracts/bin/Debug/net7.0/StatsByAlfaLaval.Domain.pdb
+/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Contracts/obj/Debug/net7.0/StatsByAlftaLaval.Contracts.csproj.CopyComplete

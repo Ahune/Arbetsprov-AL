@@ -1,3 +1,4 @@
+using StatsByAlfaLaval.Domain.Entities;
 using StatsByAlftaLaval.Contracts;
 
 namespace StatsByAlfaLaval.Application.Services.TextStatistics;

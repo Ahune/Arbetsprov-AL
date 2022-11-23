@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "StatsByAlfaLaval.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/StatsByAlfaLaval.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StatsByAlfaLaval.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "StatsByAlfaLaval.Domain/1.0.0": {
+      "type": "project",
+      "path": "../StatsByAlfaLaval.Domain/StatsByAlfaLaval.Domain.csproj",
+      "msbuildProject": "../StatsByAlfaLaval.Domain/StatsByAlfaLaval.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "StatsByAlfaLaval.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/alexandermounzer/.nuget/packages/": {}
@@ -32,7 +51,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Domain/StatsByAlfaLaval.Domain.csproj": {
+              "projectPath": "/Users/alexandermounzer/Repos/AlfaLavalTest/StatsByAlfaLaval.Domain/StatsByAlfaLaval.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

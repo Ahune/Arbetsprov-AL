@@ -50,8 +50,7 @@ public class TextStatisticController : ControllerBase
 
         var words = _wordFrequencyService.CountingWordsToDictionary(getMatchCollection);
         
-        var longestResult = _textStatisticsService.LongestWords(
-            request.NumberOfWordsToDisplay, words);
+        var longestResult = _textStatisticsService.LongestWords(request.NumberOfWordsToDisplay, words);
 
         var response = new LongestWordResult(longestResult.LongestWords);
         

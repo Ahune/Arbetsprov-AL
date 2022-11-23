@@ -1,3 +1,4 @@
+using System.Net;
 using Microsoft.AspNetCore.Mvc;
 using StatsByAlfaLaval.Application.Services.TextService;
 using StatsByAlftaLaval.Contracts.TextData;
@@ -16,15 +17,16 @@ public class TextController : ControllerBase
         _textService = textService;
     }
     
-    [HttpPost("gettext")]
-    public IActionResult GetText(TextRequest request)
+    [HttpGet("gettext")]
+    public IActionResult GetText([FromBody] TextRequest request)
     {
-        var textResult =
-            _textService.GetArticleString(request.Urls);
+        var textResult = _textService.GetArticleString(request.Urls);
 
-            var response = new TextResponse(
-            textResult.Response);
-
-            return Ok(response);
+        if (!textResult.Response.Any())
+            return BadRequest();
+                
+        var response = new TextResponse(textResult.Response);
+        
+        return Ok(response.ListOfArticles);
     }
 }
